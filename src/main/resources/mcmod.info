@@ -11,6 +11,7 @@
   "credits": "The Forge and MixinBooter communities",
   "logoFile": "",
   "screenshots": [],
-  "dependencies": ["required-after:mixinbooter"]
+  "dependencies": ["required-after:mixinbooter"],
+  "serverSideOnly": true
 }
 ]

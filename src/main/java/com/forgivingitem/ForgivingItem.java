@@ -13,6 +13,7 @@ import java.io.File;
         modid = ForgivingItem.MOD_ID,
         name = ForgivingItem.MOD_NAME,
         version = ForgivingItem.VERSION,
+        serverSideOnly = true,
         acceptedMinecraftVersions = "[1.12.2]",
         dependencies = "required-after:mixinbooter"
 )
