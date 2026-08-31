@@ -1,0 +1,21 @@
+{
+    "modListVersion": 2,
+    "modList": [{
+        "modid": "${modId}",
+        "name": "${modName}",
+        "description": "Protects configured item entities from falling into the void.",
+        "version": "${modVersion}",
+        "mcversion": "${minecraftVersion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": ["Forgiving Item contributors"],
+        "credits": "Forge and UniMixins communities",
+        "logoFile": "",
+        "screenshots": [],
+        "parent": "",
+        "requiredMods": [],
+        "dependencies": [],
+        "dependants": [],
+        "useDependencyInformation": false
+    }]
+}

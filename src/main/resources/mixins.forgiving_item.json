@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.forgivingitem.mixin",
+  "refmap": "mixins.forgiving_item.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinEntityItem"
+  ],
+  "client": [],
+  "server": []
+}
