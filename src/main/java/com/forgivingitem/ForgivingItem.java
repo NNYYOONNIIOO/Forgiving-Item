@@ -10,7 +10,8 @@ import org.apache.logging.log4j.Logger;
 @Mod(
         modid = ForgivingItem.MOD_ID,
         name = ForgivingItem.MOD_NAME,
-        version = ForgivingItem.VERSION
+        version = ForgivingItem.VERSION,
+        serverSideOnly = true
 )
 public final class ForgivingItem {
     public static final String MOD_ID = "forgiving_item";
