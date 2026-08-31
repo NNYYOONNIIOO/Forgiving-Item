@@ -1,0 +1,16 @@
+[
+{
+  "modid": "forgiving_item",
+  "name": "Forgiving Item",
+  "description": "Stops configured item entities before they fall into the void.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Forgiving Item contributors"],
+  "credits": "The Forge and MixinBooter communities",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["required-after:mixinbooter"]
+}
+]
