@@ -43,7 +43,7 @@ displayTest="IGNORE_SERVER_VERSION"
 #credits="" #optional
 
 # The authors of the mod, displayed in the mod UI (optional)
-authors="ForgivingItem"
+authors="ForgivingItem, Nyonio"
 
 # The description text for the mod (multi line!) (#mandatory)
 description='''
