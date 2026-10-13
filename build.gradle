@@ -20,7 +20,7 @@ repositories {
     }
 }
 
-version = '1.0.0'
+version = '1.0.1'
 group = 'com.forgivingitem'
 archivesBaseName = 'forgiving_item-1.12.2-forge'
 def mixin = 'zone.rong:mixinbooter:11.13'

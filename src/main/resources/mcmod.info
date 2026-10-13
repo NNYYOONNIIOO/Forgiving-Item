@@ -7,11 +7,10 @@
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["Forgiving Item contributors"],
+  "authorList": ["Forgiving Item contributors", "Nyonio"],
   "credits": "The Forge and MixinBooter communities",
   "logoFile": "",
   "screenshots": [],
-  "dependencies": ["required-after:mixinbooter"],
-  "serverSideOnly": true
+  "dependencies": ["required-after:mixinbooter"]
 }
 ]
